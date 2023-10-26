@@ -2,5 +2,4 @@ function add() {
     return 10;
 }
 
-
-add();
+console.log(add());
